@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# React Native
+# Build output
+ios/Pods/
+android/.gradle/
+android/app/build/
+
+# Python
+__pycache__/
+*.py[cod]
+.DS_Store
